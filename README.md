@@ -15,6 +15,6 @@ Bibliotecas utilizadas
 
 
 ## ScreenShots
-![Preview](https://raulquintero13.github.io/java-mapeoRelacional/docs/EDRrelaciones.png)
-
+![Preview](https://raulquintero13.github.io/java-mapeoRelacional/EDRrelaciones.png)
+            
 
